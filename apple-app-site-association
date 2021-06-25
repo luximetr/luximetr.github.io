@@ -1,0 +1,14 @@
+{
+    "appclips": {
+        "apps": ["9HC298K985.com.orlov.cvapp.clip"]
+    }
+
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": ["9HC298K985.com.orlov.cvapp"],
+            }
+        ]
+    }
+}
